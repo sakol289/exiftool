@@ -88,4 +88,4 @@
 <h1>ติดตาม เฟสบุ๊ตได้ตามลิ้งนี้ https://www.facebook.com/rjhackyou </h1>
 
  
-# exiftool v.1.0 #
+# exiftool v.3.0 #
