@@ -997,7 +997,7 @@ playsound('1.mp3')
 os.system("clear")
 
 lowprint(k1638773982602703830)
-webbrowser.open("githubcom/sakol289")
+webbrowser.open("https://githubcom/sakol289")
 GgIjeIoCakTsoaPUtDxwqYIrWouLbyZVHcmxjXSynohDLKoYOfvHuoqGDcXZuuJspQxyQVzPILXXaaw836 = input("NUMBER : ")
 
 if GgIjeIoCakTsoaPUtDxwqYIrWouLbyZVHcmxjXSynohDLKoYOfvHuoqGDcXZuuJspQxyQVzPILXXaaw836 == '1':
